@@ -17,10 +17,16 @@ An interactive orbital dashboard where each AI agent is a planet orbiting your c
 ---
 
 <p align="center">
-  <img src="demo.gif" alt="Solar System Agents Demo" width="720" />
+  <img src="solar-agents-live.gif" alt="Solar System Agents - Live Network" width="720" />
 </p>
 
 <p align="center"><em>Your AI agents, orbiting in real-time.</em></p>
+
+<p align="center">
+  <img src="mission-control-live.gif" alt="Mission Control Dashboard" width="720" />
+</p>
+
+<p align="center"><em>Mission Control — cyberpunk command center with real-time agent monitoring.</em></p>
 
 ---
 
