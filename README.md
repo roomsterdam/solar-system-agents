@@ -16,6 +16,14 @@ An interactive orbital dashboard where each AI agent is a planet orbiting your c
 
 ---
 
+<p align="center">
+  <img src="demo.gif" alt="Solar System Agents Demo" width="720" />
+</p>
+
+<p align="center"><em>Your AI agents, orbiting in real-time.</em></p>
+
+---
+
 ## What is this?
 
 If you run AI agents (CrewAI, LangChain, AutoGPT, OpenAI Assistants, custom frameworks), you probably monitor them through logs, terminals, or generic dashboards.
