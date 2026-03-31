@@ -45,7 +45,12 @@ If you run AI agents (CrewAI, LangChain, AutoGPT, OpenAI Assistants, custom fram
 
 Click any planet to see detailed stats. Zoom in/out. Pan around. Watch your agents orbit in real-time.
 
-## Quick Start
+## Deploy in 30 Seconds
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Froomsterdam%2Fsolar-system-agents)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/roomsterdam/solar-system-agents)
+
+Or run locally:
 
 ```bash
 git clone https://github.com/roomsterdam/solar-system-agents.git
