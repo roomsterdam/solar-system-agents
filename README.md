@@ -23,7 +23,7 @@ A cyberpunk command center for monitoring AI agent fleets in real-time. Two view
 ---
 
 <p align="center">
-  <img src="mission-control-live.gif" alt="Mission Control — Cyberpunk AI Dashboard" width="720" />
+  <img src="demo-landing.gif" alt="Mission Control + Solar System — AI Agent Dashboard" width="720" />
 </p>
 
 <p align="center"><em>Mission Control — real-time agent monitoring with cyberpunk UI.</em></p>
